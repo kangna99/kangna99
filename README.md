@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
   
   ### ✨ Who is Nayoon Kang?? ✨
-  💻 <strong>Soongsil Univ. CSE student <br>
-  🔭 <strong>I’m currently studying at UniMakeusChallenge 1st <br>
-  🌱 <strong>I’m currently learning Android(Kotlin) & Server <br>
+  - 💻 <strong>Soongsil University CSE student <br>
+  - 🌈 <strong>I’m currently studying at UniMakeusChallenge 1st <br>
+  - 👀 <strong>I’m currently learning Android(Kotlin) & Server <br>
   <br><br>
   
-  ### 🔨 Tech Stack 🔨
+  ### 📚 Tech Stack 📚
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
   
   [![github stats](https://github-readme-stats.vercel.app/api?username=kangna99&show_icons=true&hide_border=true)](https://github.com/kangna99)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangna99&layout=compact)](https://github.com/kangna99)
-  <br><br><br><br>
+  <br><br><br>
   
   
-  ### 📧 Contact 📧
+  ### 💌 Contact 💌
   <a href="kangna1999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="kangna99@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://github.com/kangna99" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
