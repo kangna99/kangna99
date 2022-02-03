@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   - 💻 <strong>Soongsil University CSE student <br>
   - 🌈 <strong>I’m currently studying at UniMakeusChallenge 1st <br>
   - 👀 <strong>I’m currently learning Android(Kotlin) & Server <br>
+  - ⚡ <strong>I’m working on "TripBook" application(AOS) launching <br>
   <br><br>
   
   ### 📚 Tech Stack 📚
