@@ -46,8 +46,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
   <br><br>
   
-  [![github stats](https://github-readme-stats.vercel.app/api?username=kangna99&show_icons=true&hide_border=true)](https://github.com/kangna99)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangna99&layout=compact)](https://github.com/kangna99)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangna99&show_icons=true&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangna99&layout=compact&theme=dracula)
   <br><br><br>
   
   
