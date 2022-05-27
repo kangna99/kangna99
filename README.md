@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   ### ✨ Who is Nayoon Kang?? ✨
   - 💻 <strong>Soongsil University CSE student <br>
   - 🌈 <strong>I’m currently studying at UniMakeusChallenge 2nd <br>
-  - 👀 <strong>I’m currently learning Android(Kotlin) & Server <br>
+  - 👀 <strong>I’m currently learning Server <br>
   - ⚡ <strong>I’m working on "TripBook" application(AOS) launching <br>
   <br><br>
   
