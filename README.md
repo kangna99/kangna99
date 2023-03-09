@@ -20,8 +20,7 @@ Here are some ideas to get you started:
   
   ### ✨ Who is Nayoon Kang?? ✨
   - 💻 <strong>Soongsil University CSE student <br>
-  - 👀 <strong>I’m currently learning SpringBoot <br>
-  - ⚡ <strong>I’m working on "TripBook" application(AOS) launching <br>
+  - 👀 <strong>I’m currently learning Spring <br>
   <br><br>
   
   ### 📚 Tech Stack 📚
